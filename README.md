@@ -1,5 +1,5 @@
 ### Hi there 👋
-Computer vision & deep Learning are FoI
+I'm learning to become Deep learning engineer especially computer vision engineer
 <!--
 **hemrajat/hemrajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
